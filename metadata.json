@@ -1,0 +1,6 @@
+{
+  "name": "SocialFlow - Social Media Scheduling & Auto-Publishing Platform",
+  "description": "Production-ready social media management platform to connect Facebook Pages and Instagram Professional accounts, compose media posts, schedule on an interactive calendar, and auto-publish reliably.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
